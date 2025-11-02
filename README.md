@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://i.imgur.com/5Xb7iYv.png)
+![banner]([https://i.imgur.com/5Xb7iYv.png](https://i.pinimg.com/1200x/5b/a6/57/5ba657eeb6e8b91cbd396a99bcd24f7d.jpg))
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Xaineur</span></h1>
 <h3 align="center">🇫🇷 A French developer passionate about web development, coding and community tools.</h3>
@@ -17,7 +17,7 @@
 
 ### ⚙️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,nodejs,debian,ubuntu,vscode,github" />
 </p>
 
 ---
@@ -49,6 +49,20 @@
     <img src="https://img.shields.io/badge/Discord-xaineur-7289DA?style=for-the-badge&logo=discord" />
   </a>
 </p>
+
+---
+
+### 💠 Aiko Support
+<p align="center">
+  <a href="https://discord.gg/nnzUNcRGHD">
+    <img src="https://img.shields.io/badge/Join%20Aiko%20Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Aiko Support Server" />
+  </a>
+</p>
+
+---
+
+✨ *“Build. Learn. Create.”* ✨
+
 
 ---
 
