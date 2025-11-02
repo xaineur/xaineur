@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner]([https://i.imgur.com/5Xb7iYv.png](https://i.pinimg.com/1200x/5b/a6/57/5ba657eeb6e8b91cbd396a99bcd24f7d.jpg))
+([https://i.imgur.com/5Xb7iYv.png](https://i.pinimg.com/1200x/5b/a6/57/5ba657eeb6e8b91cbd396a99bcd24f7d.jpg))
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Xaineur</span></h1>
 <h3 align="center">🇫🇷 A French developer passionate about web development, coding and community tools.</h3>
