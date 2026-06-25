@@ -1,76 +1,73 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/5b/a6/57/5ba657eeb6e8b91cbd396a99bcd24f7d.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/ec/bf/c7/ecbfc7877c823b933de567f0a46d3d90.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Xaineur</span></h1>
-<h3 align="center">🇫🇷 A French developer passionate about web development, coding and community tools.</h3>
+<h1 align="center">Salut, moi c'est <span style="color:#00aaff;">Xaineur</span> 天使</h1>
+<h3 align="center">🇫🇷 Développeur français · Web · Bots Discord · Toujours en apprentissage</h3>
 
----
-
-### 🌸 About Me
-- 💻 I **develop in HTML, CSS, and JavaScript**  
-- ⚙️ Currently **learning C++**  
-- 🤖 Working on **Aiko**, a collection of **management and ticketing Discord bots**  
-- 🧠 Always learning, building and improving  
-- 💬 Discord: **xaineur**
-
----
-
-### ⚙️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,nodejs,debian,ubuntu,vscode,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaineur&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xaineur&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🧭 Skill Wheel (auto-updated)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaineur&layout=pie&theme=tokyonight" alt="Language wheel" />
-</p>
-
-*(This wheel updates automatically based on the languages used in your public repositories.)*
-
----
-
-### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/xaineur">
-    <img src="https://img.shields.io/badge/GitHub-xaineur-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-xaineur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/xaineur">
-    <img src="https://img.shields.io/badge/Discord-xaineur-7289DA?style=for-the-badge&logo=discord" />
+    <img src="https://img.shields.io/badge/Discord-xaineur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=xaineur&label=Visites&color=00aaff&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
+### 🌸 À propos
 
-✨ *“Build. Learn. Create.”* ✨
-
+```text
+💻 Développement web — HTML, CSS, JavaScript
+⚙️  En cours d'apprentissage — C++
+🤖 Projet principal — Aiko (bots Discord de gestion & ticket)
+🧠 Toujours en train de construire, apprendre et m'améliorer
+💬 Discord — xaineur
+```
 
 ---
 
-<!--
-**xaineur/xaineur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Stack & outils
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,nodejs,debian,ubuntu,vscode,github,discord" alt="Languages & tools" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 En ce moment
+
+| Projet | Description |
+|--------|-------------|
+| **Aiko** | Collection de bots Discord pour la gestion de serveurs et le système de tickets |
+| **Apprentissage C++** | Exploration du langage et des bases de la programmation système |
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xaineur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xaineur&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaineur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xaineur&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Build. Learn. Create. ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0066cc&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Footer" />
+</p>
