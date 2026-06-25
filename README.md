@@ -54,22 +54,11 @@
 
 ---
 
-### 💠 Aiko Support
-<p align="center">
-  <a href="https://discord.gg/nnzUNcRGHD">
-    <img src="https://img.shields.io/badge/Join%20Aiko%20Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Aiko Support Server" />
-  </a>
-</p>
-
----
 
 ✨ *“Build. Learn. Create.”* ✨
 
 
 ---
-
-### 💠 Aiko Suppor
-
 
 <!--
 **xaineur/xaineur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
