@@ -164,7 +164,7 @@ Un projet, un bug à traquer ou une idée à construire ? Écris-moi, je répond
 
 | Plateforme | Pseudo |
 | :-- | :-- |
-| <img src="https://skillicons.dev/icons?i=discord" width="16"/> &nbsp;Discord | [`xaineur`](https://discord.com/users/xaineur) |
+| <img src="https://skillicons.dev/icons?i=discord" width="16"/> &nbsp;Discord | [`xaineur_222`](https://discord.com/users/xaineur) |
 | <img src="https://skillicons.dev/icons?i=github" width="16"/> &nbsp;GitHub | [`xaineur`](https://github.com/xaineur) |
 
 <div align="center">
