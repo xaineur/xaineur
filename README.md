@@ -171,7 +171,7 @@ Un projet, un bug à traquer ou une idée à construire ? Écris-moi, je répond
 
 <br/>
 
-<sub><code>&gt; carnet refermé · merci de ta visite · à la prochaine page</code></sub>
+<sub><code>&gt; merci de ta visite</code></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:3B6FB6,100:F5D547&height=120&section=footer"/>
 
