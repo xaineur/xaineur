@@ -109,10 +109,10 @@ Je débute : En desin pour des desingn sur mes projetet des ventes dans un shop.
 <table>
 <tr><td>
 
-### 🤖 Aiko
-`RECETTE PRINCIPALE` &nbsp;·&nbsp; `EN COURS`
+### 🃏 Tyche
+`economie discord bot` &nbsp;·&nbsp; `EN COURS`
 
-Collection de bots Discord pour la gestion de serveurs et le système de tickets.
+Un bot d'économie qui est modulable et qui seras dispos en bot perso.
 
 </td></tr>
 <tr><td>
